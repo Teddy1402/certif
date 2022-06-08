@@ -4,7 +4,7 @@
         <label for="mobile">☰</label>
         <input type="checkbox" id="mobile" role="button">
           <ul>
-          <li><a href="film.php"><img src=""></a></li>
+          <li><a href="index.php" style="font-size:21px; color:#08a88a; margin:15px">Certif</a></li>
           <li>            <div class="titre-bg-film">
                     <!-- <h3>Bienvenue</h3>
                     <p> <?php 

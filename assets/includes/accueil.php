@@ -27,25 +27,25 @@
                     src="https://cdn.lordicon.com/wxnxiano.json"
                     trigger="loop-on-hover"
                     delay="2000"
-                    style="width:250px;height:250px">    
+                    style="width:150px;height:150px">    
                 </lord-icon>
                 </li>
                 <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
 
-                <li><p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p></li>
+                <li><p>Tuto</p></li>
             </ul>
         </div>
         <div class="icone-1">
             <ul>
-                <li>
+                <li>                
                     <lord-icon
-                        src="https://cdn.lordicon.com/wxnxiano.json"
+                        src="https://cdn.lordicon.com/wloilxuq.json"
                         trigger="loop-on-hover"
                         delay="2000"
-                        style="width:250px;height:250px">
+                        style="width:150px;height:150px">
                     </lord-icon>
                 </li>
-                <li><p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p></li>
+                <li><p>Inscription</p></li>
             </ul>
         </div>
     </div>
@@ -57,71 +57,81 @@
         <div class="projet-1">
             <ul>
                 <li><img src="assets/images/Capture.PNG" alt=""></li>
-                <li>titre</li>
-                <li>texte</li>
+                <li><p>Nom Prénom</p></li>
+                <li><h2>Titre</h2></li>
+                <li><p>Description</p></li>
             </ul>
         </div>
         <div class="projet-1">
             <ul>
-                <li>image</li>
-                <li>titre</li>
-                <li>texte</li>
+                <li><img src="assets/images/Capture.PNG" alt=""></li>
+                <li><p>Nom Prénom</p></li>
+                <li><h2>Titre</h2></li>
+                <li><p>Description</p></li>
             </ul>
         </div>
         <div class="projet-1">
             <ul>
-                <li>image</li>
-                <li>titre</li>
-                <li>texte</li>
+                <li><img src="assets/images/Capture.PNG" alt=""></li>
+                <li><p>Nom Prénom</p></li>
+                <li><h2>Titre</h2></li>
+                <li><p>Description</p></li>
             </ul>
         </div>
         <div class="projet-1">
             <ul>
-                <li>image</li>
-                <li>titre</li>
-                <li>texte</li>
+                <li><img src="assets/images/Capture.PNG" alt=""></li>
+                <li><p>Nom Prénom</p></li>
+                <li><h2>Titre</h2></li>
+                <li><p>Description</p></li>
             </ul>
         </div>
         <div class="projet-1">
             <ul>
-                <li>image</li>
-                <li>titre</li>
-                <li>texte</li>
+                <li><img src="assets/images/Capture.PNG" alt=""></li>
+                <li><p>Nom Prénom</p></li>
+                <li><h2>Titre</h2></li>
+                <li><p>Description</p></li>
             </ul>
         </div>
         <div class="projet-1">
             <ul>
-                <li>image</li>
-                <li>titre</li>
-                <li>texte</li>
+                <li><img src="assets/images/Capture.PNG" alt=""></li>
+                <li><p>Nom Prénom</p></li>
+                <li><h2>Titre</h2></li>
+                <li><p>Description</p></li>
             </ul>
         </div>
         <div class="projet-1">
             <ul>
-                <li>image</li>
-                <li>titre</li>
-                <li>texte</li>
+                <li><img src="assets/images/Capture.PNG" alt=""></li>
+                <li><p>Nom Prénom</p></li>
+                <li><h2>Titre</h2></li>
+                <li><p>Description</p></li>
             </ul>
         </div>
         <div class="projet-1">
             <ul>
-                <li>image</li>
-                <li>titre</li>
-                <li>texte</li>
+                <li><img src="assets/images/Capture.PNG" alt=""></li>
+                <li><p>Nom Prénom</p></li>
+                <li><h2>Titre</h2></li>
+                <li><p>Description</p></li>
             </ul>
         </div>
         <div class="projet-1">
             <ul>
-                <li>image</li>
-                <li>titre</li>
-                <li>texte</li>
+                <li><img src="assets/images/Capture.PNG" alt=""></li>
+                <li><p>Nom Prénom</p></li>
+                <li><h2>Titre</h2></li>
+                <li><p>Description</p></li>
             </ul>
         </div>
         <div class="projet-1">
             <ul>
-                <li>image</li>
-                <li>titre</li>
-                <li>texte</li>
+                <li><img src="assets/images/Capture.PNG" alt=""></li>
+                <li><p>Nom Prénom</p></li>
+                <li><h2>Titre</h2></li>
+                <li><p>Description</p></li>
             </ul>
         </div>
     </div>
