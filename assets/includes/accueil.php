@@ -57,8 +57,9 @@
         <div class="projet-1">
             <ul>
                 <li><img src="assets/images/Capture.PNG" alt=""></li>
-                <li>titre</li>
-                <li>texte</li>
+                <li><p>Nom Prénom</p></li>
+                <li><h3>Titre</h3></li>
+                <li><p>Description</p></li>
             </ul>
         </div>
         <div class="projet-1">
